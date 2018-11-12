@@ -1,4 +1,4 @@
-# Network-Systems-and-Design-HTTP-Server-Projects
+# Network Systems and Design HTTP Server Projects
 
 CSCI 534 - Network Systems and Design, Spring 2017
 Projects: Basic WebServer, Packet Manager, Packet Manager w/ Packet Loss
